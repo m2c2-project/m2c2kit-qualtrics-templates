@@ -44,3 +44,9 @@ To get your data out of our backend, please contact [Dr. Nelson Roque](nur375@ps
 ## Getting Started - Using Custom Tasks
 
 Guide coming soon!
+
+# Qualtrics Resources
+
+- Passing in information via Query String
+    - This method allows you to use your own Participant and Session Identifiers
+    - https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/standard-elements/passing-information-through-query-strings/
